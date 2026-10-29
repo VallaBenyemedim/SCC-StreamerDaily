@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.obj
+*.iobj
+*.ipdb
+*.log
+*.ini
+*.tmp
+artifacts/
+
